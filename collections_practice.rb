@@ -55,4 +55,5 @@ def add_s(array)
   if index != 1   
     word.insert(-1, "s")
   end   
+end
 end 
